@@ -1,0 +1,14 @@
+{
+  "profile_title": "Profile",
+  "name": "Mohammad",
+  "job": "Developer, Android developer",
+  "location": "France, Paris",
+  "summary": "im mohammad android programmer im trying to learn flutter its very bizarre and interesting i want to be a master in flutter",
+  "selectLanguage": "Select Language",
+  "englishLanguage": "English",
+  "persionLanguage": "Farsi",
+  "skill": "Skill",
+  "personalInfo": "Personal Information",
+  "email": "Email",
+  "passwrod": "Password"
+}
